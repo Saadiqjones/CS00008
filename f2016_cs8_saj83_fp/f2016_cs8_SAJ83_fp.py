@@ -5,6 +5,12 @@
 #
 # Final Project
 #
+# Notes:
+# MN: it is great to be able to re-use code from other project/people, but you have to make it yours and change file names
+# MN: file names shoudl respect naming conventions specified in the assignment
+#
+
+
 # class participant definition according to specs from header
 # class definition
 class participant:
